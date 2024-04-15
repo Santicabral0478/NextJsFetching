@@ -5,7 +5,7 @@ export default function Home() {
     <main className="flex flex-col items-center justify-around min-h-screen p-24">
       <h1 className="text-4xl font-bold text-center">
         {" "}
-        Aprendiendo Data Fetching - soyHenry{" "}
+        Aprendiendo Data Fetching - soySantiago{" "}
       </h1>
       <nav className="flex gap-3 text-xl">
         <Link href={"/products"}> Products </Link>
